@@ -1,0 +1,19 @@
+{
+  "name": "notepoint",
+  "version": "1.0.0",
+  "description": "Notepoint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "note",
+    "notepoint",
+    "todo",
+    "api",
+    "rest",
+    "node"
+  ],
+  "author": "Malik Nurmatov <mnurmatov@gmail.com> (https://github.com/maliknurmatov)",
+  "license": "BSD-2-Clause"
+}
